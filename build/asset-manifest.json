@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iamqazi/usePopcorn.git/static/css/main.c73c62c0.css",
+    "main.js": "/iamqazi/usePopcorn.git/static/js/main.ce0b542c.js",
+    "index.html": "/iamqazi/usePopcorn.git/index.html",
+    "main.c73c62c0.css.map": "/iamqazi/usePopcorn.git/static/css/main.c73c62c0.css.map",
+    "main.ce0b542c.js.map": "/iamqazi/usePopcorn.git/static/js/main.ce0b542c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73c62c0.css",
+    "static/js/main.ce0b542c.js"
+  ]
+}
