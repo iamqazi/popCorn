@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/iamqazi/usePopcorn.git/static/css/main.c73c62c0.css",
-    "main.js": "/iamqazi/usePopcorn.git/static/js/main.ce0b542c.js",
-    "index.html": "/iamqazi/usePopcorn.git/index.html",
-    "main.c73c62c0.css.map": "/iamqazi/usePopcorn.git/static/css/main.c73c62c0.css.map",
-    "main.ce0b542c.js.map": "/iamqazi/usePopcorn.git/static/js/main.ce0b542c.js.map"
+    "main.css": "/WatchMovies/static/css/main.c73c62c0.css",
+    "main.js": "/WatchMovies/static/js/main.ce0b542c.js",
+    "index.html": "/WatchMovies/index.html",
+    "main.c73c62c0.css.map": "/WatchMovies/static/css/main.c73c62c0.css.map",
+    "main.ce0b542c.js.map": "/WatchMovies/static/js/main.ce0b542c.js.map"
   },
   "entrypoints": [
     "static/css/main.c73c62c0.css",
